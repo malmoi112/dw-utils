@@ -1,0 +1,192 @@
+{
+  "builders": [
+    "Aliens/Precursors",
+    "Demigod/Demon",
+    "Natural",
+    "Cult/Religion",
+    "Humanoid",
+    "Subterranean Dwellers",
+    "Wilderness Dwellers",
+    "Mad Wizard",
+    "Monarch/Warlord"
+  ],
+  "functions": [
+    "Power Source/Portal",
+    "Mine",
+    "Tomb/Crypt",
+    "Prison",
+    "Lair/Den/Hideout",
+    "Stronghold/Sanctuary",
+    "Shrine/Temple/Oracle",
+    "Archive/Library",
+    "Unknown/Mystery"
+  ],
+  "ruinations": [
+    "Arcane disaster/a ritual gone horribly wrong",
+    "Damnation or desolation brought by curse",
+    "Earthquakes, floods, other natural disasters",	
+    "Plague/famine, ravaged by disease or blight",
+    "Overrun with monsters or invaders",
+    "Decimated through war or inner conflict",
+    "Vital resources were depleted, tainted, or stolen",
+    "Inhabitants fled elsewhere for a better life"	
+  ],
+  "themes": {
+    "mundane": [
+      "Rot/Decay",
+      "Pain/Torture",
+      "Madness",
+      "Loss/Despair",
+      "Noble Sacrifice",
+      "Savagery",
+      "Survival",
+      "Criminal Activity",
+      "Secrets/Treachery",
+      "Tricks and Traps",
+      "Invasion/Infestation",
+      "Warring Factions"
+    ],
+    "unusual": [
+      "Creation/Invention",
+      "Elements",
+      "Knowledge/Learning",
+      "Growth/Expansion",
+      "Deepening Mystery",
+      "Transformation/Change",
+      "Chaos and Destruction",
+      "Shadowy Forces",
+      "Forbidden Knowledge",
+      "Corruption/Disease",
+      "Blight/Barrenness",
+      "Impending Catastrophe"
+    ],
+    "extraordinary": [
+      "Scheming Evil",
+      "Divination/Scrying",
+      "Blasphemy/Heresy",
+      "Arcane Research",
+      "Occult Forces",
+      "Ancient Curses",
+      "Cosmic Mutations",
+      "The Unquiet Dead",
+      "Insatiable Hunger",
+      "Untapped Power",
+      "Eldritch Horror",
+      "Divine Judgment"
+    ]
+  },
+  "dangers": {
+    "traps": [
+      "Alarming/Alerting",
+      "Ensnaring",
+      "Pit/Ensnaring",
+      "Crushing",
+      "Piercing/Stabbing",
+      "Chopping/Slashing",
+      "Confusing/Confounding",
+      "Gaseous",
+      "Elemental",
+      "Magical",
+      "Sticking/Drowning",
+      "Re-roll"
+    ],
+    "creatures": [
+      "Waiting in ambush",
+      "Fighting/squabbling",
+      "Prowling/patrolling",
+      "Hunting/scavenging",
+      "Eating/resting",
+      "On guard",
+      "On the move",
+      "Searching/sneaking",
+      "Returning to den/base",
+      "Planning",
+      "Sleeping",
+      "Dying"
+    ],
+    "entities": [
+      "Otherworldly presence",
+      "Vermin lord",
+      "Criminal kingpin",
+      "Warlord",
+      "High priest",
+      "Oracle/wise man",
+      "Mad magic wielder",
+      "Monster lord",
+      "Evil spirit",
+      "Lich",
+      "Demon",
+      "Unclean god"
+    ]
+  },
+  "discoveries": {
+    "dressing": [
+      "Junk/debris",
+      "Tracks/animal markings",
+      "Signs of conflict",
+      "Writing/carving",
+      "Warning signs",
+      "Dead creature",
+      "Bones/remains",
+      "Papers/maps",
+      "Breeze/odour/smoke",
+      "Moss/fungus",
+      "Broken door/wall",
+      "Oddity/unidentifiable"
+    ],
+    "feature": [
+      "Cave-in/collapse",
+      "Pit/chasm",
+      "Pillars/columns",
+      "Locked door/gate",
+      "Alcoves/niches/holes",
+      "Bridge/stairs",
+      "Fountain/pool",
+      "Puzzle",
+      "Dais/platform",
+      "Statue/idol",
+      "Crystal/ice",
+      "Connection elsewhere"
+    ],
+    "asset": [
+      "Trinkets",
+      "Tools",
+      "Weapons/armour",
+      "Supplies",
+      "Coins/gems",
+      "Potions/poisons",
+      "Captive/wanderer",
+      "Magical item",
+      "Scroll/book/tome",
+      "Magical equipment",
+      "Ancient artifact",
+      "Re-roll"
+    ]
+  },
+  "humanoids": {
+    "common": [
+      "Halfling",
+      "Goblin/Kobold",
+      "Dwarf/Gnome",
+      "Orc/Gnoll",
+      "Half-elf/Half-orc",
+      "Elf"
+    ],
+    "uncommon": [
+      "Fey",
+      "Grimalkin",
+      "Saurian/Merfolk",
+      "Avian",
+      "Ogre/Troll",
+      "Cyclops/Giant"
+    ],
+    "hybrid": [
+      "Centaur",
+      "Werewolf",
+      "Other Were-creature",
+      "Construct/Automata",
+      "Half-Divine",
+      "Chimera (2+ beasts)"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+.DungeonGenerator {
+  width: 60%;
+  margin: auto;
+  padding-top: 20px;
+  padding-left: 20px;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+}
+
+.DungeonGenDisplay li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 10px;
+}
+
+.ElementDisplay {
+  display: inline;
+  border: 1px solid lightgrey;
+  padding: 3px;
+}
+
+select {
+  margin-left: 5px;
+  margin-right: 20px;
+}
+
+input {
+  margin-top: 10px;
+  width: 100px;
+}
